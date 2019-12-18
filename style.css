@@ -1,0 +1,73 @@
+body {
+	background-image: url(https://walls4u.co.uk/app/uploads/2018/10/AdobeStock_170052749.jpg);
+	background-size: 2000px;
+	background-attachment: fixed;
+	color:white;
+}
+
+h1,h2 {font-family:helvetica;}
+
+h1 {
+	font-weight: 250;
+    letter-spacing: 12px;
+    font-size: 48px;
+    color:
+}
+
+h2 {
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 32px;
+}
+
+h3{
+	font-family: roboto;
+	font-size: 18px;
+	letter-spacing: 6px;
+}
+
+p {
+	color:#D7F7F7;
+	font-family:inria serif;
+	text-align: justify;
+	font-weight: 400;
+	line-height: 1.8;
+	font-size: 16px;
+}
+
+a:hover {color: #4C9F70	
+}
+a {
+	color:#8EA4D2;
+	font-size: 18px;
+	font-family: helvetica;
+	font-weight: 150px;
+	letter-spacing: 2px;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-transparent {
+	background-color: transparent;
+	padding: 40px;
+	box-shadow: 0px 10px 30px	rgba(0,0,0,4);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.id {
+	font-size: 55px;
+}
+
+.im {
+	border-radius: 0.6%;
+
+}
